@@ -2,7 +2,9 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  description: 'Dylan Smith',
+  description: 'dylants engineering services',
+  icons:
+    'https://s3.amazonaws.com/dylants-company-site/public/images/favicon.png',
   title: 'dylants',
 };
 
